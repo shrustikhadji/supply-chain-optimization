@@ -51,7 +51,7 @@ supply-chain-optimization/
 ├── 02_SupplyChain_Analysis.ipynb   ← Full SQL + EDA notebook
 ├── supply_chain_dashboard.csv      ← Final analytics dataset
 ├── supply_chain_dashboard.pbix     ← Power BI dashboard file
-├── dashboard_screenshot.png        ← Dashboard preview
+├── Screenshot 2026-05-13 145057.png        ← Dashboard preview
 ├── BRD_SupplyChain_ShopFast_ShrustiKhadji.docx
 ├── chart1_fulfillment_distribution.png
 ├── chart2_category_delays.png
